@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook de IAs Generativas:
+Desafios da Era da Inteligência Artificial: Impactos Negativos e Soluções
+ 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como proposta do desafio, busquei criar um Ebook com as IAs generativas mostradas em aula, buscando entender qual era a perspectiva dos impactos negativos de uma IA através de textos gerados pela própria inteligência artificial. O Ebook possui a estrutura de slides, por conta da ferramenta em que foi gerado, e busca abordar também possíveis soluções para os aspectos negativos da IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT: Geração do roteiro do Ebook. 
+- Gamma: Revisão de texto, Design e geração de imagens..
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, o ChatGPT gerou o esqueleto do Ebook, contento Capítulo 1, Capítulo 2 e Capítulo 3. O arquivo foi salvo no Google Drive. A IA generativa do Gamma foi responsável pela geração das imagens e layout. A ferramenta é mais focada em slides e apresentações empresariais, porém imaginei que o Ebook precisava de um toque profissional. Além de toda estrutura de Design, em que precisei apenas que inserir uma imagem a mais para a capa e escolher o tema, o Gamma gerou as linhas do tempo, outras imagens e também ampliou o texto do Chat GPT em detalhes, refinando o contéudo que recebeu como entrada.
+
+Esse foi o prompt de comando usado no Chat GPT:
+
+"Pode gerar um e-book falando sobre os impactos negativos de IA, com cerca 5 páginas, contendo conteúdos originais e abordando principalmente os campos mais afetados pela IA, dados relacionados a perspectivas de emprego dos humanos, e possíveis soluções para evitar esses problemas?" e "Pode desenvolver mais o texto, me retornando 5 páginas?".
+Porém, o ChatGPT gerou no máximo duas páginas de conteúdo inicialmente, que foi refinado e ampliado com a ferramenta do Gamma. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O E-BOOK AQUI](exemplos/Desafios-da-Era-da-Inteligencia-Artificial-Impactos-Negativos-e-Solucoes.pdf)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Foi uma experiência prática incrível e desafiadora, que para mim, levanta muitas questões éticas em relação ao seu uso. 
