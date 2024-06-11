@@ -20,7 +20,7 @@ Porém, o ChatGPT gerou no máximo duas páginas de conteúdo inicialmente, que 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](Desafios-da-Era-da-Inteligencia-Artificial-Impactos-Negativos-e-Solucoes.pdf)
 
 ## 💭 Reflexão
 Foi uma experiência prática incrível e desafiadora, que para mim, levanta muitas questões éticas em relação ao seu uso. 
